@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/fwto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fwto&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwto&layout=compact&langs_count=10&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwto&layout=compact&langs_count=10&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="fwto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
