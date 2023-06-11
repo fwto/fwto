@@ -1,4 +1,4 @@
-## Salve! me chamo Alexander ou feto como preferir.
+## Salve! me chamo Alexander.
  <div>
   <a href="https://github.com/fwto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fwto&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
